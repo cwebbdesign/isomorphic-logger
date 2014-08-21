@@ -1,0 +1,35 @@
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Node
+npm-debug.log
+node_modules/
+
+# Ignore all logfiles and tempfiles.
+/log/*.log
+/tmp
+pkgscript.log
+
+# Ignore other unneeded files.
+doc/
+*.swp
+*~
+.project
+.idea
+.tmp
+
+# Ignore Sublime text package files
+/*.sublime-*
+
+# Ignore Bower Components
+bower_components/
+

@@ -1,0 +1,24 @@
+{
+  "name": "isomorphic-logger",
+  "version": "0.0.1",
+  "author": {
+    "name": "Chris Webb",
+    "email": "chris@christopherwdesign.com",
+    "url": "http://blog.mediumequalsmessage.com"
+  },
+  "description": "A slightly modified version of the Aura.js logger that runs in the browser and Node.js.",
+  "keywords": [
+    "logging",
+    "logger",
+    "isomorphic"
+  ],
+  "devDependencies": {},
+  "repository": {
+    "url": "git@github.com:cwebbdesign/isomorphic-logger.git",
+    "type": "git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-console": "latest"
+  }
+}
